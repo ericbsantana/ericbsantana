@@ -25,7 +25,7 @@ But **most important** thing of all: I am very **hungry for knowledge** and a **
 Feel free to read my contributions to academic philosophy, as you can read by clicking in my Google Scholar badge. If you want to know more about my professional experiences, check my Linkedin profile!
 
  [![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.com/citations?user=NEC0HhcAAAAJ&hl=en)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericbsantana)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericbsantana)
 
 ## 🧰 Tech Stack
 
