@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://media.tenor.com/images/b47bfe23b9df9d0db730e648d53d5960/tenor.gif" />
+</p>
+
 # 👨‍💻 Meet me
 
-Hi! I'm **Eric Santana**, 21 years old undergraduate in Mathematics and bachelor (future) in Philosophy. I've been studying **HTML**, **CSS** and **JavaScript** since I was 16 years old. I'm currently developing front-end applications with **React** and **Vue**.
+Hi! I'm **Eric Santana**, 21 years old and (future) licentiate in Mathematics and (future) bachelor in Philosophy. I've been studying **HTML**, **CSS** and **JavaScript** since I was 16 years old. I'm currently developing front-end applications with **React** and **Vue**.
 
 Recently, I've been working on three main projects:
 
@@ -21,7 +25,7 @@ But **most important** thing of all: I am very **hungry for knowledge** and a **
 Feel free to read my contributions to academic philosophy, as you can read by clicking in my Google Scholar badge. If you want to know more about my professional experiences, check my Linkedin profile!
 
  [![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.com/citations?user=NEC0HhcAAAAJ&hl=en)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericbsantana)]
 
 ## 🧰 Tech Stack
 
@@ -43,10 +47,10 @@ There are a  main category to describe my tech stack: "_Learnt and working with.
 
 ### 📚 Learning
 
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -67,7 +71,7 @@ and discover a lot of new libs and frameworks!
 
 📧 E-mail: [```bitencourteric@hotmail.com```](mailto:bitencourteric@hotmail.com)
 
-🖊️ Linkedin: [```ericbsantana```](linkedin.com/in/ericbsantana)
+🖊️ Linkedin: [```ericbsantana```](https://linkedin.com/in/ericbsantana)
 
 ---
 
