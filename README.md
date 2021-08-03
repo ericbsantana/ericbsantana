@@ -6,9 +6,13 @@
 
 Hi! I'm **Eric Santana**, 21 years old and (future) licentiate in Mathematics and (future) bachelor in Philosophy. I've been studying **HTML**, **CSS** and **JavaScript** since I was 16 years old. I'm currently developing front-end applications with **React** and **Vue**.
 
-Recently, I've been working on three main projects:
+You may check these projects in my fixed repos:
 
 - A SPA called [_vue-movie_](https://github.com/ericbsantana/vue-movie) which uses TMDB API to get movies. Made in Vue.js, Bulma and Sass;
+- A Fullstack called [_ad-network_](https://github.com/ericbsantana/ad-network). Made in React, Node.js (w/ Express), MongoDB (mongoose) and Tailwind CSS;
+
+Other WIP projects:
+
 - A WIP Fullstack app called [_react-pet_](https://github.com/ericbsantana/react-pet). Made in React, Node.js (w/ Express), PostgreSQL and Tailwind CSS;
 - A WIP private project called _devboard_ which I'm working with [@kevinfaveri](https://github.com/kevinfaveri) collaboration. Made in React, Next.js, PostgreSQL and TypeScript.
 
