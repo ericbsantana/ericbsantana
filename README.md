@@ -8,8 +8,10 @@ Hi! I'm **Eric Santana**, 21 years old and (future) licentiate in Mathematics an
 
 You may check these projects in my fixed repos:
 
-- A SPA called [_vue-movie_](https://github.com/ericbsantana/vue-movie) which uses TMDB API to get movies. Made in Vue.js, Bulma and Sass;
-- A Fullstack app called [_ad-network_](https://github.com/ericbsantana/ad-network). Made in React, Node.js (w/ Express), MongoDB (mongoose) and Tailwind CSS;
+- A **SPA** called [_vue-movie_](https://github.com/ericbsantana/vue-movie) which uses TMDB API to get movies. Made in Vue.js, Bulma and Sass;
+- A **Fullstack app** called [_ad-network_](https://github.com/ericbsantana/ad-network). Made in React, Node.js (w/ Express), MongoDB (mongoose) and Tailwind CSS;
+- A **Frontend app** called [_codeleap-social_](https://github.com/ericbsantana/codeleap-social). Made in React (w/ Hooks and Redux) and Tailwind CSS;
+- Another **Fullstack app** called [_react-postit_](https://github.com/ericbsantana/react-postit). Made in React, Node.js (w/ Express), MongoDB (mongoose) and Tailwind CSS;
 
 Other WIP projects:
 
