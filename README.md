@@ -4,7 +4,7 @@
 
 # 👨‍💻 Meet me
 
-Hi! I am **Eric Santana**, 22 years old. I am currently studying Philosophy at Federal University of Santa Catarina (UFSC) and System Analysis and Development at Paulista University (UNIP). I currently work developing full stack applications mainly using **React** and **Node**. 
+Hi! I am **Eric Santana**, 22 years old. I graduate in Philosophy at Federal University of Santa Catarina (UFSC) and I am currently studying System Analysis and Development at Paulista University (UNIP). On my day-to-day, I work developing full stack applications using **React** and **Node**. 
 
 Check out my projects. Ordered by more recent first to less recent:
 
