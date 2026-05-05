@@ -1,0 +1,7 @@
+cv-*.tex
+!cv-eric-b-santana.tex
+build.sh
+*.aux
+*.log
+*.out
+*.pdf

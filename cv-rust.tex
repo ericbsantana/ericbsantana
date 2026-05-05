@@ -1,0 +1,90 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[left=0.4in,right=0.4in,top=0.4in,bottom=0.4in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\setlength{\parskip}{2pt}
+
+\pagestyle{empty}
+
+\setlist[itemize]{leftmargin=1.2em, itemsep=0pt, topsep=0pt, parsep=0pt}
+
+\titleformat{\section}{\normalsize\bfseries\MakeUppercase}{}{0em}{}[\vspace{-5pt}\hrulefill]
+\titlespacing{\section}{0pt}{4pt}{1pt}
+
+\newcommand{\role}[4]{%
+  \noindent\textbf{#1} \hfill #2\\
+  \textit{#3} \hfill \textit{#4}\par\vspace{0pt}%
+}
+
+\begin{document}
+
+%---------- HEADER ----------
+\begin{center}
+  {\LARGE\bfseries Eric Santana}\\
+  Backend Engineer (Rust) \textbar{} Cloud Infrastructure \textbar{} Web3\\
+  Florian\'opolis, Brazil \textbar{} Remote-Global \textbar{} +55 48 99608-1945\\
+  \href{mailto:bitencourteric@hotmail.com}{bitencourteric@hotmail.com} \textbar{}
+  \href{https://www.ericbsantana.com}{ericbsantana.com} \textbar{}
+  \href{https://github.com/ericbsantana}{github.com/ericbsantana} \textbar{}
+  \href{https://www.linkedin.com/in/ericbsantana}{linkedin.com/in/ericbsantana}
+\end{center}
+
+%---------- SUMMARY ----------
+\section*{Summary}
+Backend engineer with 5+ years building production Rust services end-to-end, on AWS infrastructure provisioned with Terraform. Track record of leading TypeScript-to-Rust migrations that halve compute footprint, integrating Web3 auth flows, and cutting AWS spend by ~30\%. Comfortable across backend (Rust, Go, Node), infrastructure (Kubernetes, Helm, Terraform), and the React UIs on top.
+
+%---------- SKILLS ----------
+\section*{Skills}
+\noindent\textbf{Languages:} Rust, TypeScript, Go, Python\\
+\textbf{Backend:} Poem (Rust), NestJS, Node.js, Gin, tRPC, gRPC\\
+\textbf{Infrastructure:} AWS (ECS, RDS, ElastiCache, S3, KMS, SageMaker, Glue), Terraform, Kubernetes, Helm, Docker, ArgoCD\\
+\textbf{Observability \& Testing:} Grafana, Prometheus, Loki, OpenTelemetry, Thanos, CloudWatch, k6\\
+\textbf{CI/CD:} GitHub Actions, Helm-based deployments, Terraform pipelines
+
+%---------- EXPERIENCE ----------
+\section*{Experience}
+
+\role{Kizzy Labs --- Founding Engineer}{May 2025 -- Present}{Remote}{Web3 / iGaming}
+\begin{itemize}
+  \item Led TypeScript-to-Rust migration of the entire backend (Poem), serving the same workload on ~50\% fewer EC2/Beanstalk instances.
+  \item Architected multi-environment AWS infrastructure in Terraform (ECS, RDS, ElastiCache, ALB, KMS, Secrets Manager) with environment isolation, automated pipelines, and audit-gated promotions.
+  \item Designed and led an end-to-end iGaming supplier integration (schema, API, settlement) and shipped KYC + geofencing for regulated jurisdictions.
+  \item Migrated authentication to Privy for unified Web3 SSO and integrated Relay for cross-chain deposits, letting users fund accounts from any chain.
+  \item Stood up an MLOps platform from scratch: SageMaker domain with custom lifecycle configs, AWS Glue ETL, training/promotion pipelines, and a production inference API.
+  \item Drove ~30\% AWS cost reduction across the account; introduced k6 load testing and CloudWatch-based observability/alerting to catch issues before release.
+\end{itemize}
+
+\role{Shuriken --- DevOps Engineer}{May 2024 -- Feb 2025}{Remote (Australia)}{Bare-metal Kubernetes / Web3}
+\begin{itemize}
+  \item Architected a 6-node bare-metal Kubernetes setup (3 prod, 3 staging) using Helm and ArgoCD, with GitHub Actions pipelines for microservice CI/CD.
+  \item Built the observability stack (Grafana, Loki, OpenTelemetry, Prometheus, Thanos) covering ~10 gRPC microservices and enabling long-term metric retention.
+  \item Shipped a data analytics service on Metabase backed by PostgreSQL read replicas, isolating reporting load from production traffic.
+\end{itemize}
+
+\role{Flash --- Software Engineer}{Dec 2023 -- May 2024}{S\~ao Paulo, Brazil}{Fintech}
+\begin{itemize}
+  \item Built API + frontend for the back-office platform managing Brazilian \textit{notas fiscais}, plus B2B partnership analytics dashboards on a NestJS + tRPC microservices stack.
+\end{itemize}
+
+\role{Fingermark --- Backend Engineer}{Mar 2023 -- Dec 2023}{Remote (New Zealand)}{B2B integrations}
+\begin{itemize}
+  \item Developed B2B integrations in TypeScript, Node.js, and .NET on Google Cloud (App Engine, Firebase, Pub/Sub), processing real-time data across multiple regions.
+\end{itemize}
+
+\role{Infleux --- Full-stack Developer}{Sep 2021 -- Mar 2023}{S\~ao Paulo, Brazil}{AdTech}
+\begin{itemize}
+  \item Built a push-notification system on AWS SNS + MongoDB for a React Native client; shipped OTA updates via CodePush and maintained a real-time conversions/clicks stream on Node.js + AWS Athena/RDS.
+  \item Reduced cloud spend 8\% by benchmarking EC2 instance types, tuning load balancers, and trimming CI/CD pipeline duration.
+\end{itemize}
+
+%---------- EDUCATION ----------
+\section*{Education}
+\noindent\textbf{Est\'acio} --- CST, Analysis and Systems Development \hfill 2024 -- 2026\\
+\textbf{Federal University of Santa Catarina} --- B.A., Philosophy \hfill 2018 -- 2022
+
+\end{document}
